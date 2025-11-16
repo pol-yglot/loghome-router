@@ -1,4 +1,4 @@
-# LogHome Project
+# logHome-router
 
 ## 프로젝트 개요
 
